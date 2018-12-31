@@ -1,1 +1,5 @@
-Ante la necesidad de un orden en las temáticas abordadas en el curso, este archivo marca las pautas de desarrollo para las auxiliares del ramo MI6081.
+Esta carpeta contiene la plantilla para las presentaciones de las auxiliares del ramo MI6081.
+
+Esta completamente basada en el template de https://github.com/matze/mtheme
+
+Se le han realizado modificaciones para adaptarse a los contenidos del curso, pero mantiene la estructura principal.
